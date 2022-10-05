@@ -10,7 +10,7 @@
 
 #### DALI results for the 6VSB structre in PDB90.
 
-#### The AA sequences of all protein structres (allPDBproteins.txt)
+#### The AA sequences of all protein structres (allproteinstructresAA.txt)
 
 #### The AA sequences of three protein sturctues families: SSC2 (SSARSAA.txt), SO (Sothers.txt and O (Others.txt) 
 
