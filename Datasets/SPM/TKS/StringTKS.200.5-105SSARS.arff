@@ -1,0 +1,606 @@
+@relation "sTRINGTKS200.5-10SSARS"
+
+@attribute AA string
+@attribute Class {COVID, Others}
+
+@data
+'D I S T E I Y', COVID
+'R K S N L K P F E R',COVID
+'N Q K L I', COVID
+'V L P P L L',COVID
+'R I S N C V A D',COVID
+'Y R L F R K S', COVID
+'S T E I Y Q A G',COVID
+'R K S N L', COVID
+'K R I S N C V A D Y',COVID
+'R Q I A P G',COVID
+'K P F E R D I S T', COVID
+'N Q K L I A',COVID
+'Q I D R L', COVID
+'L F R K S N',COVID
+'L K P F E R D I S', COVID
+'R K R I S N C', COVID
+'D I S T E I Y Q',COVID
+'R K S N L K P', COVID
+'N C Y F P', COVID
+'R K R I S N C V',COVID
+'R K R I S N C V A', COVID
+'R D I S T E I Y Q', COVID
+'V V L S F E L L',COVID
+'D Y N Y K L P', COVID
+'Y R L F R', COVID
+'Y R L F R K S N L K',COVID
+'K S N L K P',COVID
+'T F K C Y G',COVID
+'P F E R D', COVID
+'L K P F E R D I',COVID
+'V R Q I A P G', COVID
+'D I S T E I',COVID
+'K R I S N C V A',COVID
+'N L K P F E R D I', COVID
+'F G A I S S',COVID
+'I Y Q A G', COVID
+'R K S N L K',COVID
+'P F E R D I S T',COVID
+'E R D I S T E I',COVID
+'S N L K P F',COVID
+'F R K S N L K P F', COVID
+'R Q I A P G Q T',COVID
+'G F N C Y F P L',COVID
+'K P F E R D',COVID
+'R D I S T', COVID
+'A D Y N Y K L P D', COVID
+'Y R V V V L S F',COVID
+'V V V L S F E', COVID
+'P Y R V V V L S F E',COVID
+'V L P P L', COVID
+'N L K P F', COVID
+'Y R L F R K S N L', COVID
+'Y R L F R K S N',COVID
+'S T E I Y Q',COVID
+'L K P F E', COVID
+'L F R K S', COVID
+'T F K C Y G V', COVID
+'K S N L K P F', COVID
+'F N C Y F P L', COVID
+'L K P F E R',COVID
+'G F N C Y', COVID
+'N Q K L I A N', COVID
+'C Y F P L', COVID
+'R V V V L S F', COVID
+'G F N C Y F P', COVID
+'T E I Y Q A',COVID
+'K S N L K P F E R D',COVID
+'N L K P F E R', COVID
+'G A I S S', COVID
+'L P P L L', COVID
+'R I S N C V',COVID
+'L F R K S N L K',COVID
+'L F R K S N L K P F',COVID
+'L F R K S N L', COVID
+'P F E R D I S', COVID
+'I S T E I Y Q', COVID
+'P F E R D I S T E', COVID
+'I S T E I Y Q A G', COVID
+'E R D I S T',COVID
+'D Y S V L Y N', COVID
+'S N L K P F E R',COVID
+'F R K S N L K P',COVID
+'S N L K P F E', COVID
+'P C N G V', COVID
+'R Q I A P G Q T G', COVID
+'R I S N C V A D Y S',COVID
+'F E R D I S T', COVID
+'F E R D I S T E I Y',COVID
+'K P F E R D I S T E',COVID
+'R D I S T E',COVID
+'R D I S T E I', COVID
+'Y A D S F V',COVID
+'K C Y G V', COVID
+'I T N L C P',COVID
+'Y R V V V L S F E', COVID
+'Y A D S F', COVID
+'P N I T N L C P F', COVID
+'R F P N I T N L C P',COVID
+'L S F E L L',COVID
+'Y S V L Y N',COVID
+'A D Y N Y K L P D D',COVID
+'E R D I S', COVID
+'Y R L F R K',COVID
+'V V L S F', COVID
+'R L F R K', COVID
+'I S T E I', COVID
+'I S T E I Y',COVID
+'N I T N L C',COVID
+'S T E I Y', COVID
+'V R Q I A', COVID
+'V R Q I A P',COVID
+'I A D Y N Y',COVID
+'Q I A P G', COVID
+'F N C Y F', COVID
+'F N C Y F P',COVID
+'N C V A D Y S V L', COVID
+'Q I D R L I',COVID
+'K S N L K P F E R', COVID
+'K S N L K P F E',COVID
+'A D Y S V L',COVID
+'L K P F E R D', COVID
+'R K R I S N',COVID
+'R K R I S', COVID
+'I T N L C P F', COVID
+'V R Q I A P G Q',COVID
+'V R Q I A P G Q T', COVID
+'V R Q I A P G Q T G',COVID
+'R F P N I', COVID
+'A P A T V C G', COVID
+'R V V V L S',COVID
+'K R I S N C',COVID
+'S N C V A D Y S V', COVID
+'F R K S N', COVID
+'K R I S N C V', COVID
+'T E I Y Q A G', COVID
+'V L S F E L',COVID
+'N L K P F E R D',COVID
+'N L K P F E R D I S',COVID
+'N L K P F E',COVID
+'L P D D F', COVID
+'K P F E R', COVID
+'E I Y Q A G',COVID
+'E I Y Q A', COVID
+'V R F P N', COVID
+'N Y K L P D D F',COVID
+'L F R K S N L K P', COVID
+'Q K L I A', COVID
+'F P N I T N',COVID
+'R K S N L K P F E', COVID
+'P F E R D I',COVID
+'I E D L L', COVID
+'K L N D L C',COVID
+'I S T E I Y Q A',COVID
+'F R K S N L K', COVID
+'F R K S N L',COVID
+'F P N I T N L C',COVID
+'E R D I S T E', COVID
+'E R D I S T E I Y', COVID
+'K L I A N', COVID
+'N C V A D', COVID
+'V Y A D S F',COVID
+'S N L K P F E R D', COVID
+'S N L K P', COVID
+'I A D Y N Y K L',COVID
+'D I S T E I Y Q A G',COVID
+'R Q I A P', COVID
+'R Q I A P G Q', COVID
+'E V F N A', COVID
+'R L F R K S',COVID
+'R L F R K S N L',COVID
+'R L F R K S N L K P',COVID
+'C V A D Y S V L',COVID
+'R I S N C V A', COVID
+'F E R D I', COVID
+'R L F R K S N', COVID
+'I S N C V A D Y S V',COVID
+'N Y K L P', COVID
+'K P F E R D I S',COVID
+'F E R D I S T E I', COVID
+'C V A D Y S',COVID
+'K P F E R D I', COVID
+'R D I S T E I Y Q A',COVID
+'N Y K L P D D', COVID
+'I T N L C', COVID
+'N I T N L C P', COVID
+'A D Y S V L Y N',COVID
+'I S N C V A D Y',COVID
+'Y R V V V L S', COVID
+'A P G Q T', COVID
+'V A D Y S V L Y N', COVID
+'Y R V V V L S F E L',COVID
+'V V L S F E L', COVID
+'V A D Y S V L', COVID
+'P N I T N L C P',COVID
+'Q P Y R V', COVID
+'F K C Y G', COVID
+'A T V C G P K', COVID
+'V V L S F E',COVID
+'A P G Q T G',COVID
+'N V Y A D S F', COVID
+'L I C A Q', Others
+'Q D V V N Q',Others
+'R S F I E D L L F', Others
+'R D L I C A',Others
+'D V V N Q', Others
+'N E C V K', Others
+'S F I E D', Others
+'S F I E D L L F',Others
+'R S F I E D',Others
+'F G A I S S',Others
+'S F I E D L L', Others
+'A R D L I C A', Others
+'R D L I C A Q', Others
+'D L I C A Q',Others
+'V L P P L', Others
+'G S G Y I', Others
+'F I E D L', Others
+'I P T N F S',Others
+'F N K A I', Others
+'Q I D R L I',Others
+'E W V L L', Others
+'S G Y I P E',Others
+'N A Q A L', Others
+'R S F I E', Others
+'R D L I C', Others
+'I E D L L F N K',Others
+'G S G Y I P E', Others
+'Q D V V N', Others
+'G A I S S', Others
+'S G Y I P E A', Others
+'W V L L S T F', Others
+'V L L S T', Others
+'Q I D R L', Others
+'P T N F S', Others
+'G S G Y I P E A P R',Others
+'R K D G E W V L',Others
+'V F N A T', Others
+'G S G Y I P E A P', Others
+'R K D G E W V L L', Others
+'D G Q A Y V R K D', Others
+'W V L L S T',Others
+'W V L L S', Others
+'V R K D G E W V L', Others
+'R D G Q A', Others
+'G S G Y I P',Others
+'K D G E W V L L S T',Others
+'V L L S T F L', Others
+'S G Y I P E A P R', Others
+'N F G A I S',Others
+'N F G A I', Others
+'F I E D L L',Others
+'G E W V L L',Others
+'D G E W V L L S T', Others
+'D G E W V L L S',Others
+'E W V L L S T', Others
+'E A P R D G Q A',Others
+'S G Y I P', Others
+'S G Y I P E A P R D',Others
+'S G Y I P E A P',Others
+'V R K D G E W V L L',Others
+'D G E W V L L', Others
+'A P R D G', Others
+'G E W V L', Others
+'L S T F L', Others
+'G Q A Y V R K', Others
+'W V L L S T F L',Others
+'I E D L L F N K V', Others
+'Q A Y V R K D G',Others
+'Q A Y V R K D G E', Others
+'D G Q A Y V',Others
+'G S G Y I P E A',Others
+'V R K D G E',Others
+'K D G E W V L L',Others
+'K D G E W V L', Others
+'I D R L I', Others
+'E W V L L S T F L', Others
+'A Y V R K D G E W V',Others
+'G Q A Y V', Others
+'Y V R K D G E W V L',Others
+'A Y V R K', Others
+'D G Q A Y V R K D G',Others
+'A Y V R K D',Others
+'K D G E W V L L S', Others
+'P R D G Q A',Others
+'D G E W V L L S T F',Others
+'G Y I P E A P', Others
+'L L S T F', Others
+'A Y V R K D G E W', Others
+'R D G Q A Y V', Others
+'R D G Q A Y V R K', Others
+'E W V L L S T F',Others
+'P E A P R D',Others
+'Y V R K D G',Others
+'G E W V L L S T',Others
+'A P R D G Q A', Others
+'R K D G E', Others
+'R K D G E W',Others
+'Y I P E A', Others
+'D L I C A', Others
+'R S F I E D L', Others
+'A R D L I C',Others
+'L L S T F L',Others
+'R K D G E W V L L S',Others
+'I E D L L', Others
+'L F N K V', Others
+'Q A Y V R K',Others
+'Q A Y V R K D', Others
+'Y V R K D G E W',Others
+'Y V R K D G E W V', Others
+'E A P R D', Others
+'E A P R D G',Others
+'E D L L F', Others
+'E A P R D G Q', Others
+'E A P R D G Q A Y', Others
+'V L L S T F',Others
+'I E D L L F N', Others
+'Q A Y V R', Others
+'G E W V L L S T F L',Others
+'G E W V L L S', Others
+'I E D L L F',Others
+'V R K D G E W', Others
+'D G E W V L',Others
+'K D G E W', Others
+'D R L I T G',Others
+'G Q A Y V R',Others
+'A P R D G Q A Y V R',Others
+'E W V L L S',Others
+'D R L I T', Others
+'Y I P E A P R D G Q',Others
+'D G E W V', Others
+'Y V R K D G E', Others
+'G Y I P E', Others
+'G Q A Y V R K D G E',Others
+'A P R D G Q A Y V', Others
+'V R K D G', Others
+'H H H H H', Others
+'E D L L F N K V',Others
+'I P T N F', Others
+'Q A Y V R K D G E W',Others
+'D R L I T G R', Others
+'D G Q A Y V R', Others
+'I P E A P', Others
+'I P E A P R',Others
+'I T G R L', Others
+'G Y I P E A',Others
+'K D G E W V',Others
+'G E W V L L S T F', Others
+'E D L L F N',Others
+'E A P R D G Q A Y V',Others
+'I P E A P R D', Others
+'I P E A P R D G',Others
+'I P E A P R D G Q', Others
+'I P E A P R D G Q A',Others
+'Y I P E A P',Others
+'Y I P E A P R', Others
+'Y I P E A P R D',Others
+'Y I P E A P R D G', Others
+'L L F N K', Others
+'G Q A Y V R K D G', Others
+'R L I T G', Others
+'D G Q A Y V R K',Others
+'D L L F N', Others
+'F G A I S', Others
+'R L I T G R',Others
+'L L F N K V',Others
+'D G Q A Y', Others
+'P R D G Q', Others
+'H H H H H H',Others
+'P R D G Q A Y', Others
+'P R D G Q A Y V',Others
+'P R D G Q A Y V R', Others
+'L I T G R', Others
+'G Y I P E A P R',Others
+'G Y I P E A P R D', Others
+'G Y I P E A P R D G',Others
+'L I T G R L',Others
+'P R D G Q A Y V R K',Others
+'R D G Q A Y',Others
+'G Q A Y V R K D',Others
+'R L I T G R L', Others
+'R D G Q A Y V R',Others
+'E D L L F N K', Others
+'V R K D G E W V',Others
+'D R L I T G R L',Others
+'D L L F N K',Others
+'P E A P R', Others
+'D L L F N K V', Others
+'P E A P R D G', Others
+'A Y V R K D G', Others
+'P E A P R D G Q',Others
+'A P R D G Q',Others
+'R D G Q A Y V R K D',Others
+'P E A P R D G Q A', Others
+'P E A P R D G Q A Y',Others
+'R K D G E W V', Others
+'A Y V R K D G E',Others
+'A P R D G Q A Y',Others
+'Y V R K D', Others
+'S F I E D L',Others
+'F I E D L L F', Others
+'D I E F L G',Others
+'H H H H G', Others
+'W S F T S', Others
+'V P V G S', Others
+'R S E L R', Others
+'E I D I E F L', Others
+'L G R E T', Others
+'A D G L A F F', Others
+'L P E W V R',Others
+'S W S F T', Others
+'I D I E F', Others
+'D V L S W S F', Others
+'I D I E F L',Others
+'S W S F A S',Others
+'G F S A A', Others
+'H H S S G L V P R G',Others
+'H S S G L V P R G S',Others
+'G L V P R G',Others
+'W S F A S', Others
+'L V P R G S H M',Others
+'Q T V A V E F D T', Others
+'F S A T T G',Others
+'S S G L V P R G S', Others
+'V N S I R', Others
+'E F D T Y', Others
+'A D G L A F F L',Others
+'W M N D P N G', Others
+'N L Y F Q', Others
+'E N L Y F', Others
+'S S G L V P R G S H',Others
+'V L P E W', Others
+'T V A V E', Others
+'S G L V P R G S H', Others
+'N D P N G', Others
+'H H H S S G L V P R',Others
+'L A F F L', Others
+'L A F F L A',Others
+'G F S A T T G', Others
+'G L A F F', Others
+'H H S S G L V P R', Others
+'H H S S G L V', Others
+'V S V G F', Others
+'Y F K A G', Others
+'W M N D P', Others
+'W Y V D G', Others
+'S G L V P R G S H M',Others
+'S G L V P R',Others
+'H H H H H G',Others
+'L H F N P R F', Others
+'D E I D I', Others
+'M N D P N', Others
+'A D G L A F F L A', Others
+'W M N D P N',Others
+'M N D P N G',Others
+'D E I D I E F', Others
+'P D P S I', Others
+'G L A F F L A', Others
+'Q T V A V E F', Others
+'H H H S S G L V',Others
+'L V P R G', Others
+'H H H H S S G L',Others
+'V L S W S F',Others
+'L V P R G S H', Others
+'G S S H H H H H H S',Others
+'H I G I D V N S I', Others
+'V P R G S H',Others
+'P R G S H', Others
+'V E F D T F',Others
+'D G L A F F',Others
+'H S S G L V',Others
+'Q T V A V E F D',Others
+'S L G R A', Others
+'G L V P R G S H',Others
+'H S S G L V P R G', Others
+'G L A F F L A P',Others
+'H F N P R F',Others
+'S S G L V P',Others
+'S V G F S', Others
+'D G L A F F L A',Others
+'S G L V P', Others
+'G L V P R G S', Others
+'E N L Y F Q',Others
+'V P R G S H M', Others
+'V S V G F S',Others
+'S H H H H H H S',Others
+'G S S H H H H H',Others
+'S G L V P R G S',Others
+'F S A T T', Others
+'S S G L V P R G',Others
+'D V L S W', Others
+'P E W V R', Others
+'D G L A F F L A P', Others
+'A F F L A', Others
+'V L P E W V',Others
+'G L V P R', Others
+'A F F L A P',Others
+'Q T V A V E',Others
+'H H H H S S G L V P',Others
+'P H I G I', Others
+'S E L R E', Others
+'I E F L G', Others
+'W P A F W', Others
+'I D I E F L G', Others
+'H S S G L', Others
+'R S E L R E',Others
+'E I D I E F',Others
+'V E F D T Y',Others
+'T V A V E F D', Others
+'D E I D I E F L',Others
+'A D G L A F F L A P',Others
+'D E I D I E F L G', Others
+'T V A V E F D T',Others
+'L H F N P R',Others
+'M G S S H H H', Others
+'A D G L A F',Others
+'H H H H H H S S G L',Others
+'S A T T G', Others
+'G S S H H H H H H', Others
+'A D G L A', Others
+'V E F D T', Others
+'L S W S F', Others
+'I D V N S', Others
+'H H H H H S S', Others
+'E H H H H', Others
+'S S H H H H H H',Others
+'H H H S S', Others
+'M G S S H', Others
+'H H H H H', Others
+'G S S H H H',Others
+'E H H H H H H', Others
+'M G S S H H H H H', Others
+'E H H H H H',Others
+'S S H H H', Others
+'G F S A T', Others
+'H H H H S S G', Others
+'M G S S H H H H',Others
+'S S H H H H H', Others
+'S S H H H H H H S', Others
+'L P E W V', Others
+'L E H H H', Others
+'G S S H H', Others
+'H I G I D V N', Others
+'I D V N S I',Others
+'S H H H H', Others
+'H H H H S', Others
+'A V E F D', Others
+'H H H H H H S S',Others
+'S H H H H H',Others
+'Q T V A V', Others
+'H H S S G L V P',Others
+'H H H H S S G L V', Others
+'S H H H H H H', Others
+'I G I D V N S I',Others
+'S W S F A', Others
+'H H H H H S S G',Others
+'H H H H H S',Others
+'H H H H H H S S G', Others
+'H H S S G L',Others
+'V L S W S', Others
+'G F S A T T',Others
+'L H F N P', Others
+'H H H S S G L', Others
+'S S H H H H',Others
+'F F L A P', Others
+'S H H H H H H S S', Others
+'A V E F D T',Others
+'H H H H S S',Others
+'V A V E F', Others
+'H I G I D V N S',Others
+'I G I D V N',Others
+'L E H H H H H H',Others
+'L E H H H H',Others
+'I G I D V N S', Others
+'F N P R F', Others
+'G S S H H H H', Others
+'E F D T F', Others
+'S H H H H H H S S G',Others
+'V G F S A', Others
+'A V E F D T F', Others
+'D G L A F', Others
+'M G S S H H',Others
+'G L V P R G S H M', Others
+'V P R G S', Others
+'L V P R G S',Others
+'R G S H M', Others
+'L A F F L A P', Others
+'D G L A F F L', Others
+'H H H H H S S G L V',Others
+'P R G S H M',Others
+'H S S G L V P', Others
+'V A V E F D',Others
+'H S S G L V P R',Others
+'V A V E F D T', Others
+'G I D V N S I', Others
+'H H S S G', Others
+'A E G G T', Others
+'T V A V E F',Others
+'D V N S I', Others
+'H H H H H S S G L', Others
+'L E H H H H H', Others

@@ -1,0 +1,606 @@
+@relation "sTRINGCMSPAM200.5-10Others"
+
+@attribute AA string
+@attribute Class {SSARSOthers, Others}
+
+@data
+'D I S T E I Y', SSARSOthers
+'R K S N L K P F E R',SSARSOthers
+'N Q K L I', SSARSOthers
+'V L P P L L',SSARSOthers
+'R I S N C V A D',SSARSOthers
+'Y R L F R K S', SSARSOthers
+'S T E I Y Q A G',SSARSOthers
+'R K S N L', SSARSOthers
+'K R I S N C V A D Y',SSARSOthers
+'R Q I A P G',SSARSOthers
+'K P F E R D I S T', SSARSOthers
+'N Q K L I A',SSARSOthers
+'Q I D R L', SSARSOthers
+'L F R K S N',SSARSOthers
+'L K P F E R D I S', SSARSOthers
+'R K R I S N C', SSARSOthers
+'D I S T E I Y Q',SSARSOthers
+'R K S N L K P', SSARSOthers
+'N C Y F P', SSARSOthers
+'R K R I S N C V',SSARSOthers
+'R K R I S N C V A', SSARSOthers
+'R D I S T E I Y Q', SSARSOthers
+'V V L S F E L L',SSARSOthers
+'D Y N Y K L P', SSARSOthers
+'Y R L F R', SSARSOthers
+'Y R L F R K S N L K',SSARSOthers
+'K S N L K P',SSARSOthers
+'T F K C Y G',SSARSOthers
+'P F E R D', SSARSOthers
+'L K P F E R D I',SSARSOthers
+'V R Q I A P G', SSARSOthers
+'D I S T E I',SSARSOthers
+'K R I S N C V A',SSARSOthers
+'N L K P F E R D I', SSARSOthers
+'F G A I S S',SSARSOthers
+'I Y Q A G', SSARSOthers
+'R K S N L K',SSARSOthers
+'P F E R D I S T',SSARSOthers
+'E R D I S T E I',SSARSOthers
+'S N L K P F',SSARSOthers
+'F R K S N L K P F', SSARSOthers
+'R Q I A P G Q T',SSARSOthers
+'G F N C Y F P L',SSARSOthers
+'K P F E R D',SSARSOthers
+'R D I S T', SSARSOthers
+'A D Y N Y K L P D', SSARSOthers
+'Y R V V V L S F',SSARSOthers
+'V V V L S F E', SSARSOthers
+'P Y R V V V L S F E',SSARSOthers
+'V L P P L', SSARSOthers
+'N L K P F', SSARSOthers
+'Y R L F R K S N L', SSARSOthers
+'Y R L F R K S N',SSARSOthers
+'S T E I Y Q',SSARSOthers
+'L K P F E', SSARSOthers
+'L F R K S', SSARSOthers
+'T F K C Y G V', SSARSOthers
+'K S N L K P F', SSARSOthers
+'F N C Y F P L', SSARSOthers
+'L K P F E R',SSARSOthers
+'G F N C Y', SSARSOthers
+'N Q K L I A N', SSARSOthers
+'C Y F P L', SSARSOthers
+'R V V V L S F', SSARSOthers
+'G F N C Y F P', SSARSOthers
+'T E I Y Q A',SSARSOthers
+'K S N L K P F E R D',SSARSOthers
+'N L K P F E R', SSARSOthers
+'G A I S S', SSARSOthers
+'L P P L L', SSARSOthers
+'R I S N C V',SSARSOthers
+'L F R K S N L K',SSARSOthers
+'L F R K S N L K P F',SSARSOthers
+'L F R K S N L', SSARSOthers
+'P F E R D I S', SSARSOthers
+'I S T E I Y Q', SSARSOthers
+'P F E R D I S T E', SSARSOthers
+'I S T E I Y Q A G', SSARSOthers
+'E R D I S T',SSARSOthers
+'D Y S V L Y N', SSARSOthers
+'S N L K P F E R',SSARSOthers
+'F R K S N L K P',SSARSOthers
+'S N L K P F E', SSARSOthers
+'P C N G V', SSARSOthers
+'R Q I A P G Q T G', SSARSOthers
+'R I S N C V A D Y S',SSARSOthers
+'F E R D I S T', SSARSOthers
+'F E R D I S T E I Y',SSARSOthers
+'K P F E R D I S T E',SSARSOthers
+'R D I S T E',SSARSOthers
+'R D I S T E I', SSARSOthers
+'Y A D S F V',SSARSOthers
+'K C Y G V', SSARSOthers
+'I T N L C P',SSARSOthers
+'Y R V V V L S F E', SSARSOthers
+'Y A D S F', SSARSOthers
+'P N I T N L C P F', SSARSOthers
+'R F P N I T N L C P',SSARSOthers
+'L S F E L L',SSARSOthers
+'Y S V L Y N',SSARSOthers
+'A D Y N Y K L P D D',SSARSOthers
+'E R D I S', SSARSOthers
+'Y R L F R K',SSARSOthers
+'V V L S F', SSARSOthers
+'R L F R K', SSARSOthers
+'I S T E I', SSARSOthers
+'I S T E I Y',SSARSOthers
+'N I T N L C',SSARSOthers
+'S T E I Y', SSARSOthers
+'V R Q I A', SSARSOthers
+'V R Q I A P',SSARSOthers
+'I A D Y N Y',SSARSOthers
+'Q I A P G', SSARSOthers
+'F N C Y F', SSARSOthers
+'F N C Y F P',SSARSOthers
+'N C V A D Y S V L', SSARSOthers
+'Q I D R L I',SSARSOthers
+'K S N L K P F E R', SSARSOthers
+'K S N L K P F E',SSARSOthers
+'A D Y S V L',SSARSOthers
+'L K P F E R D', SSARSOthers
+'R K R I S N',SSARSOthers
+'R K R I S', SSARSOthers
+'I T N L C P F', SSARSOthers
+'V R Q I A P G Q',SSARSOthers
+'V R Q I A P G Q T', SSARSOthers
+'V R Q I A P G Q T G',SSARSOthers
+'R F P N I', SSARSOthers
+'A P A T V C G', SSARSOthers
+'R V V V L S',SSARSOthers
+'K R I S N C',SSARSOthers
+'S N C V A D Y S V', SSARSOthers
+'F R K S N', SSARSOthers
+'K R I S N C V', SSARSOthers
+'T E I Y Q A G', SSARSOthers
+'V L S F E L',SSARSOthers
+'N L K P F E R D',SSARSOthers
+'N L K P F E R D I S',SSARSOthers
+'N L K P F E',SSARSOthers
+'L P D D F', SSARSOthers
+'K P F E R', SSARSOthers
+'E I Y Q A G',SSARSOthers
+'E I Y Q A', SSARSOthers
+'V R F P N', SSARSOthers
+'N Y K L P D D F',SSARSOthers
+'L F R K S N L K P', SSARSOthers
+'Q K L I A', SSARSOthers
+'F P N I T N',SSARSOthers
+'R K S N L K P F E', SSARSOthers
+'P F E R D I',SSARSOthers
+'I E D L L', SSARSOthers
+'K L N D L C',SSARSOthers
+'I S T E I Y Q A',SSARSOthers
+'F R K S N L K', SSARSOthers
+'F R K S N L',SSARSOthers
+'F P N I T N L C',SSARSOthers
+'E R D I S T E', SSARSOthers
+'E R D I S T E I Y', SSARSOthers
+'K L I A N', SSARSOthers
+'N C V A D', SSARSOthers
+'V Y A D S F',SSARSOthers
+'S N L K P F E R D', SSARSOthers
+'S N L K P', SSARSOthers
+'I A D Y N Y K L',SSARSOthers
+'D I S T E I Y Q A G',SSARSOthers
+'R Q I A P', SSARSOthers
+'R Q I A P G Q', SSARSOthers
+'E V F N A', SSARSOthers
+'R L F R K S',SSARSOthers
+'R L F R K S N L',SSARSOthers
+'R L F R K S N L K P',SSARSOthers
+'C V A D Y S V L',SSARSOthers
+'R I S N C V A', SSARSOthers
+'F E R D I', SSARSOthers
+'R L F R K S N', SSARSOthers
+'I S N C V A D Y S V',SSARSOthers
+'N Y K L P', SSARSOthers
+'K P F E R D I S',SSARSOthers
+'F E R D I S T E I', SSARSOthers
+'C V A D Y S',SSARSOthers
+'K P F E R D I', SSARSOthers
+'R D I S T E I Y Q A',SSARSOthers
+'N Y K L P D D', SSARSOthers
+'I T N L C', SSARSOthers
+'N I T N L C P', SSARSOthers
+'A D Y S V L Y N',SSARSOthers
+'I S N C V A D Y',SSARSOthers
+'Y R V V V L S', SSARSOthers
+'A P G Q T', SSARSOthers
+'V A D Y S V L Y N', SSARSOthers
+'Y R V V V L S F E L',SSARSOthers
+'V V L S F E L', SSARSOthers
+'V A D Y S V L', SSARSOthers
+'P N I T N L C P',SSARSOthers
+'Q P Y R V', SSARSOthers
+'F K C Y G', SSARSOthers
+'A T V C G P K', SSARSOthers
+'V V L S F E',SSARSOthers
+'A P G Q T G',SSARSOthers
+'N V Y A D S F', SSARSOthers
+'L I C A Q', SSARSOthers
+'Q D V V N Q',SSARSOthers
+'R S F I E D L L F', SSARSOthers
+'R D L I C A',SSARSOthers
+'D V V N Q', SSARSOthers
+'N E C V K', SSARSOthers
+'S F I E D', SSARSOthers
+'S F I E D L L F',SSARSOthers
+'R S F I E D',SSARSOthers
+'F G A I S S',SSARSOthers
+'S F I E D L L', SSARSOthers
+'A R D L I C A', SSARSOthers
+'R D L I C A Q', SSARSOthers
+'D L I C A Q',SSARSOthers
+'V L P P L', SSARSOthers
+'G S G Y I', SSARSOthers
+'F I E D L', SSARSOthers
+'I P T N F S',SSARSOthers
+'F N K A I', SSARSOthers
+'Q I D R L I',SSARSOthers
+'E W V L L', SSARSOthers
+'S G Y I P E',SSARSOthers
+'N A Q A L', SSARSOthers
+'R S F I E', SSARSOthers
+'R D L I C', SSARSOthers
+'I E D L L F N K',SSARSOthers
+'G S G Y I P E', SSARSOthers
+'Q D V V N', SSARSOthers
+'G A I S S', SSARSOthers
+'S G Y I P E A', SSARSOthers
+'W V L L S T F', SSARSOthers
+'V L L S T', SSARSOthers
+'Q I D R L', SSARSOthers
+'P T N F S', SSARSOthers
+'G S G Y I P E A P R',SSARSOthers
+'R K D G E W V L',SSARSOthers
+'V F N A T', SSARSOthers
+'G S G Y I P E A P', SSARSOthers
+'R K D G E W V L L', SSARSOthers
+'D G Q A Y V R K D', SSARSOthers
+'W V L L S T',SSARSOthers
+'W V L L S', SSARSOthers
+'V R K D G E W V L', SSARSOthers
+'R D G Q A', SSARSOthers
+'G S G Y I P',SSARSOthers
+'K D G E W V L L S T',SSARSOthers
+'V L L S T F L', SSARSOthers
+'S G Y I P E A P R', SSARSOthers
+'N F G A I S',SSARSOthers
+'N F G A I', SSARSOthers
+'F I E D L L',SSARSOthers
+'G E W V L L',SSARSOthers
+'D G E W V L L S T', SSARSOthers
+'D G E W V L L S',SSARSOthers
+'E W V L L S T', SSARSOthers
+'E A P R D G Q A',SSARSOthers
+'S G Y I P', SSARSOthers
+'S G Y I P E A P R D',SSARSOthers
+'S G Y I P E A P',SSARSOthers
+'V R K D G E W V L L',SSARSOthers
+'D G E W V L L', SSARSOthers
+'A P R D G', SSARSOthers
+'G E W V L', SSARSOthers
+'L S T F L', SSARSOthers
+'G Q A Y V R K', SSARSOthers
+'W V L L S T F L',SSARSOthers
+'I E D L L F N K V', SSARSOthers
+'Q A Y V R K D G',SSARSOthers
+'Q A Y V R K D G E', SSARSOthers
+'D G Q A Y V',SSARSOthers
+'G S G Y I P E A',SSARSOthers
+'V R K D G E',SSARSOthers
+'K D G E W V L L',SSARSOthers
+'K D G E W V L', SSARSOthers
+'I D R L I', SSARSOthers
+'E W V L L S T F L', SSARSOthers
+'A Y V R K D G E W V',SSARSOthers
+'G Q A Y V', SSARSOthers
+'Y V R K D G E W V L',SSARSOthers
+'A Y V R K', SSARSOthers
+'D G Q A Y V R K D G',SSARSOthers
+'A Y V R K D',SSARSOthers
+'K D G E W V L L S', SSARSOthers
+'P R D G Q A',SSARSOthers
+'D G E W V L L S T F',SSARSOthers
+'G Y I P E A P', SSARSOthers
+'L L S T F', SSARSOthers
+'A Y V R K D G E W', SSARSOthers
+'R D G Q A Y V', SSARSOthers
+'R D G Q A Y V R K', SSARSOthers
+'E W V L L S T F',SSARSOthers
+'P E A P R D',SSARSOthers
+'Y V R K D G',SSARSOthers
+'G E W V L L S T',SSARSOthers
+'A P R D G Q A', SSARSOthers
+'R K D G E', SSARSOthers
+'R K D G E W',SSARSOthers
+'Y I P E A', SSARSOthers
+'D L I C A', SSARSOthers
+'R S F I E D L', SSARSOthers
+'A R D L I C',SSARSOthers
+'L L S T F L',SSARSOthers
+'R K D G E W V L L S',SSARSOthers
+'I E D L L', SSARSOthers
+'L F N K V', SSARSOthers
+'Q A Y V R K',SSARSOthers
+'Q A Y V R K D', SSARSOthers
+'Y V R K D G E W',SSARSOthers
+'Y V R K D G E W V', SSARSOthers
+'E A P R D', SSARSOthers
+'E A P R D G',SSARSOthers
+'E D L L F', SSARSOthers
+'E A P R D G Q', SSARSOthers
+'E A P R D G Q A Y', SSARSOthers
+'V L L S T F',SSARSOthers
+'I E D L L F N', SSARSOthers
+'Q A Y V R', SSARSOthers
+'G E W V L L S T F L',SSARSOthers
+'G E W V L L S', SSARSOthers
+'I E D L L F',SSARSOthers
+'V R K D G E W', SSARSOthers
+'D G E W V L',SSARSOthers
+'K D G E W', SSARSOthers
+'D R L I T G',SSARSOthers
+'G Q A Y V R',SSARSOthers
+'A P R D G Q A Y V R',SSARSOthers
+'E W V L L S',SSARSOthers
+'D R L I T', SSARSOthers
+'Y I P E A P R D G Q',SSARSOthers
+'D G E W V', SSARSOthers
+'Y V R K D G E', SSARSOthers
+'G Y I P E', SSARSOthers
+'G Q A Y V R K D G E',SSARSOthers
+'A P R D G Q A Y V', SSARSOthers
+'V R K D G', SSARSOthers
+'H H H H H', SSARSOthers
+'E D L L F N K V',SSARSOthers
+'I P T N F', SSARSOthers
+'Q A Y V R K D G E W',SSARSOthers
+'D R L I T G R', SSARSOthers
+'D G Q A Y V R', SSARSOthers
+'I P E A P', SSARSOthers
+'I P E A P R',SSARSOthers
+'I T G R L', SSARSOthers
+'G Y I P E A',SSARSOthers
+'K D G E W V',SSARSOthers
+'G E W V L L S T F', SSARSOthers
+'E D L L F N',SSARSOthers
+'E A P R D G Q A Y V',SSARSOthers
+'I P E A P R D', SSARSOthers
+'I P E A P R D G',SSARSOthers
+'I P E A P R D G Q', SSARSOthers
+'I P E A P R D G Q A',SSARSOthers
+'Y I P E A P',SSARSOthers
+'Y I P E A P R', SSARSOthers
+'Y I P E A P R D',SSARSOthers
+'Y I P E A P R D G', SSARSOthers
+'L L F N K', SSARSOthers
+'G Q A Y V R K D G', SSARSOthers
+'R L I T G', SSARSOthers
+'D G Q A Y V R K',SSARSOthers
+'D L L F N', SSARSOthers
+'F G A I S', SSARSOthers
+'R L I T G R',SSARSOthers
+'L L F N K V',SSARSOthers
+'D G Q A Y', SSARSOthers
+'P R D G Q', SSARSOthers
+'H H H H H H',SSARSOthers
+'P R D G Q A Y', SSARSOthers
+'P R D G Q A Y V',SSARSOthers
+'P R D G Q A Y V R', SSARSOthers
+'L I T G R', SSARSOthers
+'G Y I P E A P R',SSARSOthers
+'G Y I P E A P R D', SSARSOthers
+'G Y I P E A P R D G',SSARSOthers
+'L I T G R L',SSARSOthers
+'P R D G Q A Y V R K',SSARSOthers
+'R D G Q A Y',SSARSOthers
+'G Q A Y V R K D',SSARSOthers
+'R L I T G R L', SSARSOthers
+'R D G Q A Y V R',SSARSOthers
+'E D L L F N K', SSARSOthers
+'V R K D G E W V',SSARSOthers
+'D R L I T G R L',SSARSOthers
+'D L L F N K',SSARSOthers
+'P E A P R', SSARSOthers
+'D L L F N K V', SSARSOthers
+'P E A P R D G', SSARSOthers
+'A Y V R K D G', SSARSOthers
+'P E A P R D G Q',SSARSOthers
+'A P R D G Q',SSARSOthers
+'R D G Q A Y V R K D',SSARSOthers
+'P E A P R D G Q A', SSARSOthers
+'P E A P R D G Q A Y',SSARSOthers
+'R K D G E W V', SSARSOthers
+'A Y V R K D G E',SSARSOthers
+'A P R D G Q A Y',SSARSOthers
+'Y V R K D', SSARSOthers
+'S F I E D L',SSARSOthers
+'F I E D L L F', SSARSOthers
+'D I E F L G',Others
+'H H H H G', Others
+'W S F T S', Others
+'V P V G S', Others
+'R S E L R', Others
+'E I D I E F L', Others
+'L G R E T', Others
+'A D G L A F F', Others
+'L P E W V R',Others
+'S W S F T', Others
+'I D I E F', Others
+'D V L S W S F', Others
+'I D I E F L',Others
+'S W S F A S',Others
+'G F S A A', Others
+'H H S S G L V P R G',Others
+'H S S G L V P R G S',Others
+'G L V P R G',Others
+'W S F A S', Others
+'L V P R G S H M',Others
+'Q T V A V E F D T', Others
+'F S A T T G',Others
+'S S G L V P R G S', Others
+'V N S I R', Others
+'E F D T Y', Others
+'A D G L A F F L',Others
+'W M N D P N G', Others
+'N L Y F Q', Others
+'E N L Y F', Others
+'S S G L V P R G S H',Others
+'V L P E W', Others
+'T V A V E', Others
+'S G L V P R G S H', Others
+'N D P N G', Others
+'H H H S S G L V P R',Others
+'L A F F L', Others
+'L A F F L A',Others
+'G F S A T T G', Others
+'G L A F F', Others
+'H H S S G L V P R', Others
+'H H S S G L V', Others
+'V S V G F', Others
+'Y F K A G', Others
+'W M N D P', Others
+'W Y V D G', Others
+'S G L V P R G S H M',Others
+'S G L V P R',Others
+'H H H H H G',Others
+'L H F N P R F', Others
+'D E I D I', Others
+'M N D P N', Others
+'A D G L A F F L A', Others
+'W M N D P N',Others
+'M N D P N G',Others
+'D E I D I E F', Others
+'P D P S I', Others
+'G L A F F L A', Others
+'Q T V A V E F', Others
+'H H H S S G L V',Others
+'L V P R G', Others
+'H H H H S S G L',Others
+'V L S W S F',Others
+'L V P R G S H', Others
+'G S S H H H H H H S',Others
+'H I G I D V N S I', Others
+'V P R G S H',Others
+'P R G S H', Others
+'V E F D T F',Others
+'D G L A F F',Others
+'H S S G L V',Others
+'Q T V A V E F D',Others
+'S L G R A', Others
+'G L V P R G S H',Others
+'H S S G L V P R G', Others
+'G L A F F L A P',Others
+'H F N P R F',Others
+'S S G L V P',Others
+'S V G F S', Others
+'D G L A F F L A',Others
+'S G L V P', Others
+'G L V P R G S', Others
+'E N L Y F Q',Others
+'V P R G S H M', Others
+'V S V G F S',Others
+'S H H H H H H S',Others
+'G S S H H H H H',Others
+'S G L V P R G S',Others
+'F S A T T', Others
+'S S G L V P R G',Others
+'D V L S W', Others
+'P E W V R', Others
+'D G L A F F L A P', Others
+'A F F L A', Others
+'V L P E W V',Others
+'G L V P R', Others
+'A F F L A P',Others
+'Q T V A V E',Others
+'H H H H S S G L V P',Others
+'P H I G I', Others
+'S E L R E', Others
+'I E F L G', Others
+'W P A F W', Others
+'I D I E F L G', Others
+'H S S G L', Others
+'R S E L R E',Others
+'E I D I E F',Others
+'V E F D T Y',Others
+'T V A V E F D', Others
+'D E I D I E F L',Others
+'A D G L A F F L A P',Others
+'D E I D I E F L G', Others
+'T V A V E F D T',Others
+'L H F N P R',Others
+'M G S S H H H', Others
+'A D G L A F',Others
+'H H H H H H S S G L',Others
+'S A T T G', Others
+'G S S H H H H H H', Others
+'A D G L A', Others
+'V E F D T', Others
+'L S W S F', Others
+'I D V N S', Others
+'H H H H H S S', Others
+'E H H H H', Others
+'S S H H H H H H',Others
+'H H H S S', Others
+'M G S S H', Others
+'H H H H H', Others
+'G S S H H H',Others
+'E H H H H H H', Others
+'M G S S H H H H H', Others
+'E H H H H H',Others
+'S S H H H', Others
+'G F S A T', Others
+'H H H H S S G', Others
+'M G S S H H H H',Others
+'S S H H H H H', Others
+'S S H H H H H H S', Others
+'L P E W V', Others
+'L E H H H', Others
+'G S S H H', Others
+'H I G I D V N', Others
+'I D V N S I',Others
+'S H H H H', Others
+'H H H H S', Others
+'A V E F D', Others
+'H H H H H H S S',Others
+'S H H H H H',Others
+'Q T V A V', Others
+'H H S S G L V P',Others
+'H H H H S S G L V', Others
+'S H H H H H H', Others
+'I G I D V N S I',Others
+'S W S F A', Others
+'H H H H H S S G',Others
+'H H H H H S',Others
+'H H H H H H S S G', Others
+'H H S S G L',Others
+'V L S W S', Others
+'G F S A T T',Others
+'L H F N P', Others
+'H H H S S G L', Others
+'S S H H H H',Others
+'F F L A P', Others
+'S H H H H H H S S', Others
+'A V E F D T',Others
+'H H H H S S',Others
+'V A V E F', Others
+'H I G I D V N S',Others
+'I G I D V N',Others
+'L E H H H H H H',Others
+'L E H H H H',Others
+'I G I D V N S', Others
+'F N P R F', Others
+'G S S H H H H', Others
+'E F D T F', Others
+'S H H H H H H S S G',Others
+'V G F S A', Others
+'A V E F D T F', Others
+'D G L A F', Others
+'M G S S H H',Others
+'G L V P R G S H M', Others
+'V P R G S', Others
+'L V P R G S',Others
+'R G S H M', Others
+'L A F F L A P', Others
+'D G L A F F L', Others
+'H H H H H S S G L V',Others
+'P R G S H M',Others
+'H S S G L V P', Others
+'V A V E F D',Others
+'H S S G L V P R',Others
+'V A V E F D T', Others
+'G I D V N S I', Others
+'H H S S G', Others
+'A E G G T', Others
+'T V A V E F',Others
+'D V N S I', Others
+'H H H H H S S G L', Others
+'L E H H H H H', Others
