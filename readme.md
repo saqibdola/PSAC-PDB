@@ -8,7 +8,7 @@
 
 ### The Protein Structrues AA Sequences folder contains:
 
-#### DALI results for the 6VSB structre in PDB90.
+#### DALI results for the 6VSB structre in PDB90 (Dali 6vsbB-90.txt).
 
 #### The AA sequences of all protein structres (allproteinstructresAA.txt)
 
