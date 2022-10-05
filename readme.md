@@ -1,18 +1,17 @@
 # PSAC-PDB
-Malware Behavior Analysis using Sequential Pattern Mining
+## Protein Strctres Analysis and Classification in PDB
 
-In the datasets folder:
+### The datasets folder contains:
 
-"ALLMalwareAPISequenes" contains the API calls sequences for all malwares
-
-"alldataset1000sequences" contins the first 1000 API calls from the ALLMalwareAPISequenes file
-
-"APICalls1000Sequences" contins the first 1000 API calls from the ALLMalwareAPISequenes file in SPMF format
-
-"Malware types dataset" contains the API calls for each malware
-
-"Malware types in SPMF" contains the API calls in SPMF Format for each malware
-
-The Python script computes the  the minimum length, maximum length and average sequence length of API calls sequences in each malware type. 
+#### The AA, AAA, ASSE and FAA of protein structres.  These datasets are used for classification. 
 
 
+### The Protein Structrues AA Sequences folder contains:
+
+#### DALI results for the 6VSB structre in PDB90.
+
+#### The AA sequences of all protein structres (allPDBproteins.txt)
+
+#### The AA sequences of three protein sturctues families: SSC2 (SSARSAA.txt), SO (Sothers.txt and O (Others.txt) 
+
+#### The AA sequences of three protein sturctues families in SPMF format: SSC2 (SPMF SSARSAA.txt), SO (SPMF Sothers.txt and O (SPMF Others.txt) 
