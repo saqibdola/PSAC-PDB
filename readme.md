@@ -1,4 +1,4 @@
-# MBAwSPM
+# PSAC-PDB
 Malware Behavior Analysis using Sequential Pattern Mining
 
 In the datasets folder:
